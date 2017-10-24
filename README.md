@@ -1,3 +1,13 @@
+# Routes
+
+training@RubyRailsVM-16:~/training/hello_rails$ rake routes
+
+     Prefix Verb URI Pattern            Controller#Action
+  say_hello GET  /say/hello(.:format)   say#hello
+  
+say_goodbye GET  /say/goodbye(.:format) say#goodbye
+
+
 # README
 
 This README would normally document whatever steps are necessary to get the
