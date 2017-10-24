@@ -1,3 +1,11 @@
+# Templates
+
+erb
+
+ruby render haml template
+
+ruby render haml vs slim
+
 # Routes
 
 training@RubyRailsVM-16:~/training/hello_rails$ rake routes
