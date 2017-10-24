@@ -1,3 +1,7 @@
+# Controller
+
+before_action
+
 # Templates
 
 erb

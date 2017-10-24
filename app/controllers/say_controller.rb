@@ -5,4 +5,9 @@ class SayController < ApplicationController
 
   def goodbye
   end
+
+  def hi
+    @files = Dir.glob('./app/controllers/*')
+    puts 'Hello'
+  end
 end
